@@ -16,8 +16,8 @@ Encryption Task 4 Algorithms Text , 2 Algo Image
 ## - Encryption is commonly used to protect data stored on computer systems and data transmitted via computer networks, including the Internet. Financial transactions and private messaging communications often use encryption to increase security. Encryption is important when we need to find out whether data has been tampered with (data integrity), to increase people’s confidence that they are communicating with the people they think are communicating with (authentication) and to be sure that messages were sent and received (non-repudiation).
 
 
-<img  src="https://www.internetsociety.org/wp-content/uploads/2021/05/ISOC_MOZ_FEST_Decrypted_Text-13.png">
-
+<img width="600" src="https://www.internetsociety.org/wp-content/uploads/2021/05/ISOC_MOZ_FEST_Decrypted_Text-13.png">
+ 
 
 
 
