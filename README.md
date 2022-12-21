@@ -28,6 +28,8 @@ Encryption Task 4 Algorithms Text , 2 Algo Image
 ### End-to-end encryption also protects the private, confidential communications of law enforcement, military personnel, government officials overseeing classified operations, and emergency responders. 
 
 ### Encryption also protects highly sensitive systems intrinsically tied to national security, including systems that power the electrical grid, databases containing confidential data on citizens, and databases of financial institutions critical to the economic stability of sovereign nations.
+
+
  
 
 
