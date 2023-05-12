@@ -36,3 +36,5 @@ Encryption Task 4 Algorithms Text , 2 Algo Image
 ## Example:
 ### "The two are communicating over an open network using Diffie–Hellman encryption, so hackers or others seeking to eavesdrop or intercept a message are unlikely to break the encryption, even with considerable resources."
 
+
+
